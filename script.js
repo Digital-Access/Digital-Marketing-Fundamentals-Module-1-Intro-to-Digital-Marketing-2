@@ -6,9 +6,9 @@ const config = {
     celebrationImg_on: true,
     celebration_image: "https://a.storyblok.com/f/112136/205x150/12867bb205/sporting-hero.png",
     placeholder_text: [
-        "Type your Goal here...",
+        "Type your goal here...",
         "Type your audience here...",
-        "Type your Objective here...",
+        "Type your objective here...",
         "Type possible tactics here...",
         "Type your metrics here"
     ],
